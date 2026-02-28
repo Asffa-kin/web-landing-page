@@ -18,6 +18,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
+    padding: 10px 0;
 }
 
 nav ul {
@@ -42,7 +44,7 @@ nav a:hover {
     align-items: center;
     padding: 60px 20px;
     gap: 60px;
-    margin: 50px;
+    margin: 50px 200px;
 }
 
 .hero-h-text h1 {
@@ -129,19 +131,19 @@ nav a:hover {
 .quotes-c {
     width: 800px;
     margin: 50px;
-    margin: auto;
 }
 
 blockquote {
     font-size: 36px;
     color: #1f2937;
     font-weight: 300;
+    margin: 0 200px;
 }
 
 .author {
     text-align: right;
     font-weight: bold;
-    margin-top: 10px;
+    margin: 10px 150px;
 }
 
 .cta-section {
