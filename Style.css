@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     font-family: 'Roboto';
 }
 
@@ -44,7 +45,11 @@ nav a:hover {
     align-items: center;
     padding: 60px 20px;
     gap: 60px;
-    margin: 50px 200px;
+    margin: 50px 185px;
+}
+
+.hero-h-text {
+    margin-right: 200px;
 }
 
 .hero-h-text h1 {
